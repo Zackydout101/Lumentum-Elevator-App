@@ -1,0 +1,10 @@
+C:\Users\deedl\source\repos\Lumentum_Interview\bin\Debug\Lumentum_Interview.exe.config
+C:\Users\deedl\source\repos\Lumentum_Interview\bin\Debug\Lumentum_Interview.exe
+C:\Users\deedl\source\repos\Lumentum_Interview\bin\Debug\Lumentum_Interview.pdb
+C:\Users\deedl\source\repos\Lumentum_Interview\obj\Debug\Lumentum_Interview.csprojAssemblyReference.cache
+C:\Users\deedl\source\repos\Lumentum_Interview\obj\Debug\Lumentum_Interview.Form1.resources
+C:\Users\deedl\source\repos\Lumentum_Interview\obj\Debug\Lumentum_Interview.Properties.Resources.resources
+C:\Users\deedl\source\repos\Lumentum_Interview\obj\Debug\Lumentum_Interview.csproj.GenerateResource.cache
+C:\Users\deedl\source\repos\Lumentum_Interview\obj\Debug\Lumentum_Interview.csproj.CoreCompileInputs.cache
+C:\Users\deedl\source\repos\Lumentum_Interview\obj\Debug\Lumentum_Interview.exe
+C:\Users\deedl\source\repos\Lumentum_Interview\obj\Debug\Lumentum_Interview.pdb
